@@ -93,7 +93,7 @@ submitHandler: function(form) {
             options = {
               body: 'You have a total of 3 unread emails',
               tag: 'preset',
-              icon: 'http://www.audero.it/favicon.ico'
+              icon: 'mail-icon-128.png'
             };
           } else {
             title = document.getElementById('title').value;
